@@ -24,19 +24,20 @@
 
 <img src="https://raw.githubusercontent.com/Anggelie/Anggelie/main/assets/section-toolkit.svg" alt="toolkit section" width="100%" />
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,kotlin,cpp,haskell&amp;theme=dark" alt="Python, Java, JavaScript, TypeScript, Kotlin, C++ and Haskell" height="47" />
-
-<img src="https://skillicons.dev/icons?i=react,angular,astro,nodejs,express,html,css,tailwind,androidstudio&amp;theme=dark" alt="React, Angular, Astro, Node.js, Express, HTML, CSS, Tailwind and Android Studio" height="47" />
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sklearn&amp;theme=dark" alt="MongoDB, PostgreSQL, MySQL and scikit-learn" height="47" />
-
-<img src="https://skillicons.dev/icons?i=docker,jenkins,git,github,linux,vscode&amp;theme=dark" alt="Docker, Jenkins, Git, GitHub, Linux and VS Code" height="47" />
-
-<img src="https://raw.githubusercontent.com/Anggelie/Anggelie/main/tren.gif" alt="Animated pixel-art train" width="360" />
-
-</div>
+<table>
+<tr>
+<td width="62%" valign="middle" align="center">
+<img src="https://raw.githubusercontent.com/Anggelie/Anggelie/main/assets/identity-strip.svg" alt="Anggelie development toolkit" width="100%" />
+<p><img src="https://skillicons.dev/icons?i=python,java,js,ts,kotlin,cpp,haskell&amp;theme=dark" alt="Programming languages" height="38" /></p>
+<p><img src="https://skillicons.dev/icons?i=react,angular,astro,nodejs,express,html,css&amp;theme=dark" alt="Web development technologies" height="38" /></p>
+<p><img src="https://skillicons.dev/icons?i=tailwind,androidstudio,mongodb,postgres,mysql,sklearn&amp;theme=dark" alt="Mobile and data technologies" height="38" /></p>
+<p><img src="https://skillicons.dev/icons?i=docker,jenkins,git,github,linux,vscode&amp;theme=dark" alt="Development and DevOps tools" height="38" /></p>
+</td>
+<td width="38%" valign="middle" align="center">
+<img src="https://raw.githubusercontent.com/Anggelie/Anggelie/main/tren.gif" alt="Pixel-art night train animation" width="270" />
+</td>
+</tr>
+</table>
 
 <img src="https://raw.githubusercontent.com/Anggelie/Anggelie/main/assets/section-work.svg" alt="Selected work section" width="100%" />
 
