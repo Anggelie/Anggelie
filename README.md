@@ -24,16 +24,20 @@
 <img src="https://raw.githubusercontent.com/Anggelie/Anggelie/main/assets/toolkit-unified.svg" alt="Unified cyber toolkit organized by frontend, backend, databases and AI, and DevOps and systems" width="100%" />
 </div>
 
-<img src="https://raw.githubusercontent.com/Anggelie/Anggelie/main/assets/section-work.svg" alt="Selected work section" width="100%" />
+<img src="https://raw.githubusercontent.com/Anggelie/Anggelie/main/assets/section-work.svg" alt="Projects section" width="100%" />
 
-| PROJECT | ENGINEERING HIGHLIGHT |
-| :--- | :--- |
-| **[MCP / Meeting Room Reservations](https://github.com/Anggelie/MCP-local-Gesti-n-de-reservas-de-salas-de-reuniones)** | `MCP` `JSON-RPC` `HTTP` |
-| **[MCP / Local Server](https://github.com/Anggelie/mcp-local-server-uvg)** | `Python` `Protocol design` |
-| **[Fuzzy Logic / Ventilation](https://github.com/Anggelie/Proyecto-L-gica-Fuzzy-con-Python)** | `AI` `Streamlit` `scikit-fuzzy` |
-| **[Turing Machine Simulator](https://github.com/Anggelie/Simulador-Maquina-de-Turing)** | `Python` `Automata` |
-| **[Turing Machine / Project 3](https://github.com/Anggelie/Teoria-Computacion-Proyecto-3)** | `YAML` `Validation` |
-| **[Rasterization](https://github.com/Anggelie/Rasterization)** | `Graphics` `Rendering` |
+<div align="center">
+
+<a href="https://github.com/Anggelie/MCP-local-Gesti-n-de-reservas-de-salas-de-reuniones"><img src="https://img.shields.io/badge/MCP%20%C2%B7%20Room%20Reservations-MCP%20%2F%20JSON%2DRPC%20%2F%20HTTP-12313C?style=for-the-badge&labelColor=071923&color=12313C" alt="MCP · Room Reservations — MCP / JSON-RPC / HTTP" height="30" /></a>
+<a href="https://github.com/Anggelie/mcp-local-server-uvg"><img src="https://img.shields.io/badge/MCP%20%C2%B7%20Local%20Server-Python%20%2F%20Protocols-12313C?style=for-the-badge&labelColor=071923&color=12313C" alt="MCP · Local Server — Python / Protocols" height="30" /></a>
+<a href="https://github.com/Anggelie/Proyecto-L-gica-Fuzzy-con-Python"><img src="https://img.shields.io/badge/Fuzzy%20Logic-AI%20%2F%20Streamlit-12313C?style=for-the-badge&labelColor=071923&color=12313C" alt="Fuzzy Logic — AI / Streamlit" height="30" /></a>
+<a href="https://github.com/Anggelie/Simulador-Maquina-de-Turing"><img src="https://img.shields.io/badge/Turing%20Simulator-Python%20%2F%20Automata-12313C?style=for-the-badge&labelColor=071923&color=12313C" alt="Turing Simulator — Python / Automata" height="30" /></a>
+<a href="https://github.com/Anggelie/Teoria-Computacion-Proyecto-3"><img src="https://img.shields.io/badge/Turing%20Project%203-YAML%20%2F%20Validation-12313C?style=for-the-badge&labelColor=071923&color=12313C" alt="Turing Project 3 — YAML / Validation" height="30" /></a>
+<a href="https://github.com/Anggelie/Rasterization"><img src="https://img.shields.io/badge/Rasterization-Graphics%20%2F%20Rendering-12313C?style=for-the-badge&labelColor=071923&color=12313C" alt="Rasterization — Graphics / Rendering" height="30" /></a>
+
+<img src="https://raw.githubusercontent.com/Anggelie/Anggelie/main/tren.gif" alt="Animated pixel-art train" width="300" />
+
+</div>
 
 <img src="https://raw.githubusercontent.com/Anggelie/Anggelie/main/assets/section-activity.svg" alt="activity section" width="100%" />
 
