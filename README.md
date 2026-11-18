@@ -28,17 +28,28 @@
 
 <img src="https://raw.githubusercontent.com/Anggelie/Anggelie/main/assets/section-toolkit.svg" alt="toolkit section" width="100%" />
 
-**Languages**
+<table>
+<tr>
+<td width="76%" valign="middle">
+<img src="https://raw.githubusercontent.com/Anggelie/Anggelie/main/assets/tech-tree.svg" alt="Technology tree: languages, web and mobile, data and AI, systems and DevOps" width="100%" />
+</td>
+<td width="24%" align="center" valign="middle">
+<img src="https://raw.githubusercontent.com/Anggelie/Anggelie/main/tren.gif" alt="Animated pixel-art train" width="210" />
+<br/>
+<sub>✿ learning, building, exploring</sub>
+</td>
+</tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,kotlin,cpp,haskell&theme=dark" alt="Python, JavaScript, TypeScript, Java, Kotlin, C++ and Haskell" />
+<details>
+<summary>View my toolkit as text</summary>
 
-**Web & mobile**
+- **Languages:** Python, Java, JavaScript, TypeScript, Kotlin, C++, Haskell.
+- **Web and mobile:** React, Angular, Astro, HTML, CSS, Tailwind, Node.js, Express, Android Studio.
+- **Data and AI:** MongoDB, PostgreSQL, SQL, scikit-learn, scikit-fuzzy, Streamlit.
+- **Systems and DevOps:** Docker, Jenkins, Git, GitHub, Linux, OpenGL, MCP/JSON-RPC and networking.
 
-<img src="https://skillicons.dev/icons?i=react,astro,nodejs,express,html,css,tailwind,androidstudio&theme=dark" alt="React, Astro, Node.js, Express, HTML, CSS, Tailwind and Android Studio" />
-
-**Data, infrastructure & tools**
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,jenkins,git,github,vscode,linux&theme=dark" alt="PostgreSQL, MongoDB, Docker, Jenkins, Git, GitHub, VS Code and Linux" />
+</details>
 
 <img src="https://raw.githubusercontent.com/Anggelie/Anggelie/main/assets/section-work.svg" alt="Selected work section" width="100%" />
 
