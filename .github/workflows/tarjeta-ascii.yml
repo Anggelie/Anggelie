@@ -1,0 +1,37 @@
+name: Actualizar tarjeta ASCII
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 4 * * *'
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/tarjeta-ascii.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  generar-tarjeta:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generar tarjeta de perfil ASCII
+        uses: hu553in/ascii-profile-card@v1
+        with:
+          config: |
+            login: Anggelie
+            card:
+              lines:
+                - { type: header, text: 'anggelie@github ~' }
+                - { type: kv, key: Name, value: 'Anggelie Velasquez' }
+                - { type: kv, key: Role, value: 'Computer Science & IT Engineering' }
+                - { type: kv, key: University, value: 'Universidad del Valle de Guatemala' }
+                - { type: kv, key: Location, value: 'Guatemala' }
+                - { type: section, title: 'Developer profile' }
+                - { type: kv, key: Focus, value: 'Full-stack | AI & Data | Graphics' }
+                - { type: kv, key: Languages, value: 'Python, JS/TS, Kotlin, Java, C++, Haskell' }
+                - { type: kv, key: Tools, value: 'React, Astro, Android Studio, Docker, Jenkins' }
+                - { type: section, title: 'GitHub' }
+                - { type: kv, key: Public repos, value: '{repos}' }
+                - { type: kv, key: Followers, value: '{followers}' }
