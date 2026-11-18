@@ -20,8 +20,6 @@
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/Anggelie/Anggelie/main/assets/section-toolkit.svg" alt="toolkit section" width="100%" />
-
 <div align="center">
 <img src="https://raw.githubusercontent.com/Anggelie/Anggelie/main/assets/toolkit-unified.svg" alt="Unified cyber toolkit organized by frontend, backend, databases and AI, and DevOps and systems" width="100%" />
 </div>
