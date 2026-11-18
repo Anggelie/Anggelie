@@ -30,26 +30,34 @@
 
 <table>
 <tr>
-<td width="76%" valign="middle">
-<img src="https://raw.githubusercontent.com/Anggelie/Anggelie/main/assets/tech-tree.svg" alt="Technology tree: languages, web and mobile, data and AI, systems and DevOps" width="100%" />
+<td width="68%" valign="top">
+
+### 🌿 tech garden / toolkit
+
+**🌱 Languages**
+
+`Python` · `Java` · `JavaScript` · `TypeScript` · `Kotlin` · `C++` · `Haskell`
+
+**🌸 Web & mobile**
+
+`React` · `Angular` · `Astro` · `Node.js` · `Express` · `HTML/CSS` · `Tailwind` · `Android Studio`
+
+**🍃 Data & AI**
+
+`MongoDB` · `PostgreSQL` · `SQL` · `scikit-learn` · `scikit-fuzzy` · `Streamlit`
+
+**🪻 Systems & DevOps**
+
+`Docker` · `Jenkins` · `Git` · `GitHub` · `Linux` · `OpenGL` · `MCP / JSON-RPC`
+
 </td>
-<td width="24%" align="center" valign="middle">
-<img src="https://raw.githubusercontent.com/Anggelie/Anggelie/main/tren.gif" alt="Animated pixel-art train" width="210" />
-<br/>
-<sub>✿ learning, building, exploring</sub>
+<td width="32%" align="center" valign="middle">
+<img src="https://raw.githubusercontent.com/Anggelie/Anggelie/main/tren.gif" alt="Animated pixel-art train" width="240" />
+
+<sub>✿ learning · building · exploring</sub>
 </td>
 </tr>
 </table>
-
-<details>
-<summary>View my toolkit as text</summary>
-
-- **Languages:** Python, Java, JavaScript, TypeScript, Kotlin, C++, Haskell.
-- **Web and mobile:** React, Angular, Astro, HTML, CSS, Tailwind, Node.js, Express, Android Studio.
-- **Data and AI:** MongoDB, PostgreSQL, SQL, scikit-learn, scikit-fuzzy, Streamlit.
-- **Systems and DevOps:** Docker, Jenkins, Git, GitHub, Linux, OpenGL, MCP/JSON-RPC and networking.
-
-</details>
 
 <img src="https://raw.githubusercontent.com/Anggelie/Anggelie/main/assets/section-work.svg" alt="Selected work section" width="100%" />
 
