@@ -28,36 +28,19 @@
 
 <img src="https://raw.githubusercontent.com/Anggelie/Anggelie/main/assets/section-toolkit.svg" alt="toolkit section" width="100%" />
 
-<table>
-<tr>
-<td width="72%" valign="middle">
+<div align="center">
 
-**🌱 Languages**
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,kotlin,cpp,haskell&amp;theme=dark" alt="Python, Java, JavaScript, TypeScript, Kotlin, C++ and Haskell" height="47" />
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,kotlin,cpp,haskell&amp;theme=dark&amp;perline=7" alt="Python, Java, JavaScript, TypeScript, Kotlin, C++ and Haskell" width="100%" />
+<img src="https://skillicons.dev/icons?i=react,angular,astro,nodejs,express,html,css,tailwind,androidstudio&amp;theme=dark" alt="React, Angular, Astro, Node.js, Express, HTML, CSS, Tailwind and Android Studio" height="47" />
 
-**🌸 Web & mobile**
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sklearn&amp;theme=dark" alt="MongoDB, PostgreSQL, MySQL and scikit-learn" height="47" />
 
-<img src="https://skillicons.dev/icons?i=react,angular,astro,nodejs,express,html,css,tailwind,androidstudio&amp;theme=dark&amp;perline=7" alt="React, Angular, Astro, Node.js, Express, HTML, CSS, Tailwind and Android Studio" width="100%" />
+<img src="https://skillicons.dev/icons?i=docker,jenkins,git,github,linux,vscode&amp;theme=dark" alt="Docker, Jenkins, Git, GitHub, Linux and VS Code" height="47" />
 
-**🍃 Data & AI**
+<img src="https://raw.githubusercontent.com/Anggelie/Anggelie/main/tren.gif" alt="Animated pixel-art train" width="360" />
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sklearn&amp;theme=dark&amp;perline=7" alt="MongoDB, PostgreSQL, MySQL and scikit-learn" width="100%" />
-
-**🪻 DevOps & tools**
-
-<img src="https://skillicons.dev/icons?i=docker,jenkins,git,github,linux,vscode&amp;theme=dark&amp;perline=7" alt="Docker, Jenkins, Git, GitHub, Linux and VS Code" width="100%" />
-
-<sub>Also exploring: Streamlit · scikit-fuzzy · OpenGL · MCP / JSON-RPC</sub>
-
-</td>
-<td width="28%" align="center" valign="middle">
-<img src="https://raw.githubusercontent.com/Anggelie/Anggelie/main/tren.gif" alt="Animated pixel-art train" width="230" />
-
-<sub>✿ learning · building · exploring</sub>
-</td>
-</tr>
-</table>
+</div>
 
 <img src="https://raw.githubusercontent.com/Anggelie/Anggelie/main/assets/section-work.svg" alt="Selected work section" width="100%" />
 
