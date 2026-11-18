@@ -24,20 +24,9 @@
 
 <img src="https://raw.githubusercontent.com/Anggelie/Anggelie/main/assets/section-toolkit.svg" alt="toolkit section" width="100%" />
 
-<table>
-<tr>
-<td width="62%" valign="middle" align="center">
-<img src="https://raw.githubusercontent.com/Anggelie/Anggelie/main/assets/identity-strip.svg" alt="Anggelie development toolkit" width="100%" />
-<p><img src="https://skillicons.dev/icons?i=python,java,js,ts,kotlin,cpp,haskell&amp;theme=dark" alt="Programming languages" height="38" /></p>
-<p><img src="https://skillicons.dev/icons?i=react,angular,astro,nodejs,express,html,css&amp;theme=dark" alt="Web development technologies" height="38" /></p>
-<p><img src="https://skillicons.dev/icons?i=tailwind,androidstudio,mongodb,postgres,mysql,sklearn&amp;theme=dark" alt="Mobile and data technologies" height="38" /></p>
-<p><img src="https://skillicons.dev/icons?i=docker,jenkins,git,github,linux,vscode&amp;theme=dark" alt="Development and DevOps tools" height="38" /></p>
-</td>
-<td width="38%" valign="middle" align="center">
-<img src="https://raw.githubusercontent.com/Anggelie/Anggelie/main/tren.gif" alt="Pixel-art night train animation" width="270" />
-</td>
-</tr>
-</table>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Anggelie/Anggelie/main/assets/toolkit-unified.svg" alt="Unified cyber toolkit organized by frontend, backend, databases and AI, and DevOps and systems" width="100%" />
+</div>
 
 <img src="https://raw.githubusercontent.com/Anggelie/Anggelie/main/assets/section-work.svg" alt="Selected work section" width="100%" />
 
