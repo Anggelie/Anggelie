@@ -8,7 +8,7 @@
 
 </div>
 
-### 01 / ABOUT
+<img src="https://raw.githubusercontent.com/Anggelie/Anggelie/main/assets/section-about.svg" alt="about section" width="100%" />
 
 <img align="right" src="https://raw.githubusercontent.com/Anggelie/Anggelie/main/programadora.gif" alt="Pixel-art programmer animation" width="205" />
 
@@ -18,7 +18,9 @@ I build and explore software across **web development, data, AI, networking and 
 
 <br clear="right"/>
 
-### 02 / TOOLKIT
+<div align="right"><img src="https://raw.githubusercontent.com/Anggelie/Anggelie/main/computadora.gif" alt="Animated pixel-art computer" width="190" /></div>
+
+<img src="https://raw.githubusercontent.com/Anggelie/Anggelie/main/assets/section-toolkit.svg" alt="toolkit section" width="100%" />
 
 **Languages**
 
@@ -32,18 +34,18 @@ I build and explore software across **web development, data, AI, networking and 
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,jenkins,git,github,vscode,linux&theme=dark" alt="PostgreSQL, MongoDB, Docker, Jenkins, Git, GitHub, VS Code and Linux" />
 
-### 03 / SELECTED WORK
+<img src="https://raw.githubusercontent.com/Anggelie/Anggelie/main/assets/section-work.svg" alt="Selected work section" width="100%" />
 
-| Repository | What I worked on |
+| PROJECT | ENGINEERING HIGHLIGHT |
 | :--- | :--- |
-| [MCP · Meeting Room Reservations](https://github.com/Anggelie/MCP-local-Gesti-n-de-reservas-de-salas-de-reuniones) | MCP client/server, JSON-RPC, stdio and HTTP |
-| [MCP · Local Server](https://github.com/Anggelie/mcp-local-server-uvg) | Protocol implementation from scratch in Python |
-| [Fuzzy Logic · Ventilation](https://github.com/Anggelie/Proyecto-L-gica-Fuzzy-con-Python) | Mamdani inference and Streamlit |
-| [Turing Machine Simulator](https://github.com/Anggelie/Simulador-Maquina-de-Turing) | Deterministic machine simulation |
-| [Turing Machine · Project 3](https://github.com/Anggelie/Teoria-Computacion-Proyecto-3) | YAML configuration and validation |
-| [Rasterization](https://github.com/Anggelie/Rasterization) | Computer graphics |
+| **[MCP / Meeting Room Reservations](https://github.com/Anggelie/MCP-local-Gesti-n-de-reservas-de-salas-de-reuniones)** | `MCP` `JSON-RPC` `HTTP` |
+| **[MCP / Local Server](https://github.com/Anggelie/mcp-local-server-uvg)** | `Python` `Protocol design` |
+| **[Fuzzy Logic / Ventilation](https://github.com/Anggelie/Proyecto-L-gica-Fuzzy-con-Python)** | `AI` `Streamlit` `scikit-fuzzy` |
+| **[Turing Machine Simulator](https://github.com/Anggelie/Simulador-Maquina-de-Turing)** | `Python` `Automata` |
+| **[Turing Machine / Project 3](https://github.com/Anggelie/Teoria-Computacion-Proyecto-3)** | `YAML` `Validation` |
+| **[Rasterization](https://github.com/Anggelie/Rasterization)** | `Graphics` `Rendering` |
 
-### 04 / ACTIVITY
+<img src="https://raw.githubusercontent.com/Anggelie/Anggelie/main/assets/section-activity.svg" alt="activity section" width="100%" />
 
 <div align="center">
 
@@ -56,4 +58,8 @@ I build and explore software across **web development, data, AI, networking and 
 
 ---
 
-<div align="center"><sub>BUILD • BREAK • LEARN • REPEAT</sub></div>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Anggelie/Anggelie/main/peces.gif" alt="Animated pixel-art fish" width="240" />
+
+<sub>BUILD • BREAK • LEARN • REPEAT</sub>
+</div>
