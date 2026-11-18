@@ -12,16 +12,12 @@
 
 <table>
 <tr>
-<td width="67%" valign="middle">
-<h3>✿ hey, i'm anggelie!</h3>
-<p>I'm a <b>Computer Science & IT Engineering student at UVG</b> who enjoys building things, solving problems and making technology feel a little more human.</p>
-<p>My interests span <b>full-stack development, AI & data, networks and computer graphics</b>.</p>
-<p><code>♡ currently exploring: intelligent apps · creative coding · backend systems</code></p>
-<p>🌿 <i>Always curious, always building.</i></p>
+<td width="70%" valign="middle">
+<img src="https://raw.githubusercontent.com/Anggelie/Anggelie/main/assets/about-terminal.svg" alt="About Anggelie in a cyber terminal card" width="100%" />
 </td>
-<td width="33%" align="center" valign="middle">
-<img src="https://raw.githubusercontent.com/Anggelie/Anggelie/main/programadora.gif" alt="Pixel-art girl programming" width="220" />
-<img src="https://raw.githubusercontent.com/Anggelie/Anggelie/main/computadora.gif" alt="Animated pixel-art computer" width="220" />
+<td width="30%" align="center" valign="middle">
+<img src="https://raw.githubusercontent.com/Anggelie/Anggelie/main/programadora.gif" alt="Pixel-art programmer" width="210" />
+<img src="https://raw.githubusercontent.com/Anggelie/Anggelie/main/computadora.gif" alt="Pixel-art computer animation" width="210" />
 </td>
 </tr>
 </table>
