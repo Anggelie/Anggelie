@@ -10,15 +10,21 @@
 
 <img src="https://raw.githubusercontent.com/Anggelie/Anggelie/main/assets/section-about.svg" alt="about section" width="100%" />
 
-<img align="right" src="https://raw.githubusercontent.com/Anggelie/Anggelie/main/programadora.gif" alt="Pixel-art programmer animation" width="205" />
-
-I build and explore software across **web development, data, AI, networking and computer graphics**. I'm studying Computer Science & IT Engineering at **UVG**, and I enjoy understanding how things work — from interfaces to protocols and algorithms.
-
-`> currently exploring: full-stack systems · intelligent applications · creative coding`
-
-<br clear="right"/>
-
-<div align="right"><img src="https://raw.githubusercontent.com/Anggelie/Anggelie/main/computadora.gif" alt="Animated pixel-art computer" width="190" /></div>
+<table>
+<tr>
+<td width="67%" valign="middle">
+<h3>✿ hey, i'm anggelie!</h3>
+<p>I'm a <b>Computer Science & IT Engineering student at UVG</b> who enjoys building things, solving problems and making technology feel a little more human.</p>
+<p>My interests span <b>full-stack development, AI & data, networks and computer graphics</b>.</p>
+<p><code>♡ currently exploring: intelligent apps · creative coding · backend systems</code></p>
+<p>🌿 <i>Always curious, always building.</i></p>
+</td>
+<td width="33%" align="center" valign="middle">
+<img src="https://raw.githubusercontent.com/Anggelie/Anggelie/main/programadora.gif" alt="Pixel-art girl programming" width="220" />
+<img src="https://raw.githubusercontent.com/Anggelie/Anggelie/main/computadora.gif" alt="Animated pixel-art computer" width="220" />
+</td>
+</tr>
+</table>
 
 <img src="https://raw.githubusercontent.com/Anggelie/Anggelie/main/assets/section-toolkit.svg" alt="toolkit section" width="100%" />
 
