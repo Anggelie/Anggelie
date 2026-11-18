@@ -28,7 +28,7 @@
 
 <div align="center">
 
-<a href="https://github.com/Anggelie/MCP-local-Gesti-n-de-reservas-de-salas-de-reuniones"><img src="https://img.shields.io/badge/MCP%20%C2%B7%20Room%20Reservations-MCP%20%2F%20JSON%2DRPC%20%2F%20HTTP-12313C?style=for-the-badge&labelColor=071923&color=12313C" alt="MCP · Room Reservations — MCP / JSON-RPC / HTTP" height="30" /></a>
+<a href="https://github.com/Anggelie/MCP-local-Gesti-n-de-reservas-de-salas-de-reuniones"><img src="https://img.shields.io/badge/MCP-ROOM_RESERVATIONS-12313C?style=for-the-badge&amp;labelColor=071923" alt="MCP Room Reservations" height="30" /></a>
 <a href="https://github.com/Anggelie/mcp-local-server-uvg"><img src="https://img.shields.io/badge/MCP%20%C2%B7%20Local%20Server-Python%20%2F%20Protocols-12313C?style=for-the-badge&labelColor=071923&color=12313C" alt="MCP · Local Server — Python / Protocols" height="30" /></a>
 <a href="https://github.com/Anggelie/Proyecto-L-gica-Fuzzy-con-Python"><img src="https://img.shields.io/badge/Fuzzy%20Logic-AI%20%2F%20Streamlit-12313C?style=for-the-badge&labelColor=071923&color=12313C" alt="Fuzzy Logic — AI / Streamlit" height="30" /></a>
 <a href="https://github.com/Anggelie/Simulador-Maquina-de-Turing"><img src="https://img.shields.io/badge/Turing%20Simulator-Python%20%2F%20Automata-12313C?style=for-the-badge&labelColor=071923&color=12313C" alt="Turing Simulator — Python / Automata" height="30" /></a>
