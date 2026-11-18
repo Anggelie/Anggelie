@@ -30,29 +30,29 @@
 
 <table>
 <tr>
-<td width="68%" valign="top">
-
-### 🌿 tech garden / toolkit
+<td width="72%" valign="middle">
 
 **🌱 Languages**
 
-`Python` · `Java` · `JavaScript` · `TypeScript` · `Kotlin` · `C++` · `Haskell`
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,kotlin,cpp,haskell&amp;theme=dark&amp;perline=7" alt="Python, Java, JavaScript, TypeScript, Kotlin, C++ and Haskell" width="100%" />
 
 **🌸 Web & mobile**
 
-`React` · `Angular` · `Astro` · `Node.js` · `Express` · `HTML/CSS` · `Tailwind` · `Android Studio`
+<img src="https://skillicons.dev/icons?i=react,angular,astro,nodejs,express,html,css,tailwind,androidstudio&amp;theme=dark&amp;perline=7" alt="React, Angular, Astro, Node.js, Express, HTML, CSS, Tailwind and Android Studio" width="100%" />
 
 **🍃 Data & AI**
 
-`MongoDB` · `PostgreSQL` · `SQL` · `scikit-learn` · `scikit-fuzzy` · `Streamlit`
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sklearn&amp;theme=dark&amp;perline=7" alt="MongoDB, PostgreSQL, MySQL and scikit-learn" width="100%" />
 
-**🪻 Systems & DevOps**
+**🪻 DevOps & tools**
 
-`Docker` · `Jenkins` · `Git` · `GitHub` · `Linux` · `OpenGL` · `MCP / JSON-RPC`
+<img src="https://skillicons.dev/icons?i=docker,jenkins,git,github,linux,vscode&amp;theme=dark&amp;perline=7" alt="Docker, Jenkins, Git, GitHub, Linux and VS Code" width="100%" />
+
+<sub>Also exploring: Streamlit · scikit-fuzzy · OpenGL · MCP / JSON-RPC</sub>
 
 </td>
-<td width="32%" align="center" valign="middle">
-<img src="https://raw.githubusercontent.com/Anggelie/Anggelie/main/tren.gif" alt="Animated pixel-art train" width="240" />
+<td width="28%" align="center" valign="middle">
+<img src="https://raw.githubusercontent.com/Anggelie/Anggelie/main/tren.gif" alt="Animated pixel-art train" width="230" />
 
 <sub>✿ learning · building · exploring</sub>
 </td>
