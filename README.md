@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/Anggelie/Anggelie/main/assets/cyber-terminal.svg" alt="Anggelie Velásquez — cyber terminal profile" width="100%" />
 
-<sub>COMPUTER SCIENCE & IT ENGINEERING · [UNIVERSIDAD DEL VALLE DE GUATEMALA](https://www.uvg.edu.gt/) · GUATEMALA</sub>
+<img src="https://raw.githubusercontent.com/Anggelie/Anggelie/main/assets/identity-strip.svg" alt="Anggelie Engineering — Universidad del Valle de Guatemala, Guatemala" width="100%" />
 
 </div>
 
