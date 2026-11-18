@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Anggelie/Anggelie/main/assets/banner.svg" alt="Anggelie Velásquez — Computer Science and IT Engineering" width="100%" />
+<img src="https://raw.githubusercontent.com/Anggelie/Anggelie/main/cafe.gif" alt="Animated pixel-art café with cats and greenery" width="100%" />
 
 ### Hi, I'm Anggelie! 💜
 
@@ -28,12 +28,16 @@
 
 ### 🌸 About me
 
+<img align="right" src="https://raw.githubusercontent.com/Anggelie/Anggelie/main/programadora.gif" alt="Animated pixel-art programmer at a computer" width="230" />
+
 I'm a Computer Science and Information Technology Engineering student at **Universidad del Valle de Guatemala (UVG)**. I enjoy turning ideas into practical software and learning by building real projects.
 
 - 💻 Interested in **full-stack development**, APIs and databases.
 - 🧠 Exploring **artificial intelligence**, data analysis and machine learning.
 - 🎨 Curious about **computer graphics**, rendering and creative coding.
 - 🌱 Always learning, experimenting and improving my projects.
+
+<br clear="right" />
 
 ### 🛠️ Tech stack
 
