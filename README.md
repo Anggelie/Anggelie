@@ -4,8 +4,6 @@
 
 <img src="https://raw.githubusercontent.com/Anggelie/Anggelie/main/assets/cyber-terminal.svg" alt="Anggelie Velásquez — cyber terminal profile" width="100%" />
 
-<img src="https://raw.githubusercontent.com/Anggelie/Anggelie/main/assets/identity-strip.svg" alt="Anggelie Engineering — Universidad del Valle de Guatemala, Guatemala" width="100%" />
-
 </div>
 
 <img src="https://raw.githubusercontent.com/Anggelie/Anggelie/main/assets/section-about.svg" alt="about section" width="100%" />
